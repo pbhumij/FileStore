@@ -1,0 +1,14 @@
+Oct 21, 2017 11:03:53 PM com.quarx.filestore.Pithos uploadFile
+INFO: uploading..
+Oct 21, 2017 11:03:56 PM com.quarx.filestore.Pithos uploadFile
+INFO: 2097152
+Oct 21, 2017 11:03:56 PM com.quarx.filestore.Pithos uploadFile
+INFO: resuming upload...
+Oct 21, 2017 11:03:57 PM com.quarx.filestore.Pithos uploadFile
+INFO: File uploaded completely: true size: 3488808
+Oct 21, 2017 11:03:57 PM com.quarx.filestore.Pithos uploadFile
+INFO: Closing thread!
+Oct 21, 2017 11:03:58 PM com.quarx.filestore.Pithos downloadFile
+INFO: File downloaded completely: true size: 3488808
+Oct 21, 2017 11:03:58 PM com.quarx.filestore.Pithos downloadFile
+INFO: Closing thread!
